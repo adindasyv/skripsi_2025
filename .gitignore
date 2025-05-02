@@ -3,8 +3,8 @@ model_fasttext_berita.bin*
 *.npy
 *.bin
 
-# File dataset
-*.csv
+# # File dataset
+# *.csv
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
