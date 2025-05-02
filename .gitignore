@@ -1,0 +1,10 @@
+# File model besar
+model_fasttext_berita.bin*
+*.npy
+*.bin
+
+# File dataset
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
