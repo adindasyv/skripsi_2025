@@ -1,7 +1,6 @@
 # File model besar
-model_fasttext_berita.bin*
+# model_fasttext_berita.bin*
 *.npy
-*.bin
 
 # # File dataset
 # *.csv
